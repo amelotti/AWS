@@ -1,2 +1,2 @@
 # AWS
-AWS Demos
+Demos e referencias adicionais para os treinamentos AWS
